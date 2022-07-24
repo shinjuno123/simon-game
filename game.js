@@ -88,10 +88,15 @@ function initialize(){
   isGameStarted = false;
 }
 
+levelTitle.click(function(event){
+  if(isGameStarted === false){
+    startOver();
+    isGameStarted = true;
+  }
+});
 
 
-
-$(document).on("keydown click",function(event){
+$(document).on("keydown",function(event){
   if(isGameStarted === false){
     startOver();
     isGameStarted = true;
