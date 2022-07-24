@@ -91,7 +91,7 @@ function initialize(){
 
 
 
-$(document).on("keydown",function(event){
+$(document).on("keydown click",function(event){
   if(isGameStarted === false){
     startOver();
     isGameStarted = true;
