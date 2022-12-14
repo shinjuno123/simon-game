@@ -11,7 +11,7 @@
 ![simon gae](https://user-images.githubusercontent.com/72008909/207618697-728c8d90-70ca-4cec-8649-d3ca63a8ee14.gif)
 
 
-this is simon-game almost people know. You have to press colored buttons as its sequence.
+This is simon-game almost people know. You have to press colored buttons as its sequence.
 
 
 ## :three: Site URL
