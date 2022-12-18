@@ -1,6 +1,6 @@
 # :video_game: SIMON GAME
 
-## :one: Technique Stack
+## :one: Technical Stack
 
 - HMTL
 - CSS
